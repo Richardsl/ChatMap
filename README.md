@@ -6,4 +6,5 @@ Other users will be able to see the picture and respond by posting their own or 
 A work in progress...
 
 Screencast as per 28.02.2017:
+
 <img src="screencast.gif"/>
